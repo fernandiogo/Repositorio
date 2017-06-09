@@ -1,0 +1,24 @@
+¿Qué entiende como "commit"?
+Un commit es una actualización de lo que se 
+esta trabjando, siendo este solo un versionamiento
+del mismo proyecto. Por lo tanto se puede encontrar 
+lo que se hizo anteriormente en el proyecto y lo que 
+se modifico.
+
+¿Qué entiende como "merge"?
+Merge es la fusión de las ramas  paralelas con otras
+ramas o con la rama principal. Esta se pueden unir 
+con el versionamiento que creamos y que creamos
+que sea mejor.
+
+¿Cuál es la diferencia entre "Pull" y "Push"?
+La diferencia es que "PULL" obtiene todas las versiones 
+de un repositorio remoto a nuestro repositorio local. 
+Mientras que PUSH agrega las nuevas versiones al 
+repositorio remoto.
+
+¿Cómo utilizar ramas ("branches") en la aplicación?
+Las ramas se utilizan para trabajar en paralelo un 
+versionamiento de la aplicación, y así no modificar 
+la rama principal (master), y asi poder ver como 
+de otra forma puede funcionar el proyecto.
